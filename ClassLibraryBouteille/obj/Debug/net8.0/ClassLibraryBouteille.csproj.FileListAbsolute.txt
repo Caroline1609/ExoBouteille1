@@ -1,0 +1,11 @@
+C:\Users\cabiehler\OneDrive - CENTRE DE READAPTATION\Documents\ExoPOOBouteille\ClassLibraryBouteille\bin\Debug\net8.0\ClassLibraryBouteille.deps.json
+C:\Users\cabiehler\OneDrive - CENTRE DE READAPTATION\Documents\ExoPOOBouteille\ClassLibraryBouteille\bin\Debug\net8.0\ClassLibraryBouteille.dll
+C:\Users\cabiehler\OneDrive - CENTRE DE READAPTATION\Documents\ExoPOOBouteille\ClassLibraryBouteille\bin\Debug\net8.0\ClassLibraryBouteille.pdb
+C:\Users\cabiehler\OneDrive - CENTRE DE READAPTATION\Documents\ExoPOOBouteille\ClassLibraryBouteille\obj\Debug\net8.0\ClassLibraryBouteille.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cabiehler\OneDrive - CENTRE DE READAPTATION\Documents\ExoPOOBouteille\ClassLibraryBouteille\obj\Debug\net8.0\ClassLibraryBouteille.AssemblyInfoInputs.cache
+C:\Users\cabiehler\OneDrive - CENTRE DE READAPTATION\Documents\ExoPOOBouteille\ClassLibraryBouteille\obj\Debug\net8.0\ClassLibraryBouteille.AssemblyInfo.cs
+C:\Users\cabiehler\OneDrive - CENTRE DE READAPTATION\Documents\ExoPOOBouteille\ClassLibraryBouteille\obj\Debug\net8.0\ClassLibraryBouteille.csproj.CoreCompileInputs.cache
+C:\Users\cabiehler\OneDrive - CENTRE DE READAPTATION\Documents\ExoPOOBouteille\ClassLibraryBouteille\obj\Debug\net8.0\ClassLibraryBouteille.dll
+C:\Users\cabiehler\OneDrive - CENTRE DE READAPTATION\Documents\ExoPOOBouteille\ClassLibraryBouteille\obj\Debug\net8.0\refint\ClassLibraryBouteille.dll
+C:\Users\cabiehler\OneDrive - CENTRE DE READAPTATION\Documents\ExoPOOBouteille\ClassLibraryBouteille\obj\Debug\net8.0\ClassLibraryBouteille.pdb
+C:\Users\cabiehler\OneDrive - CENTRE DE READAPTATION\Documents\ExoPOOBouteille\ClassLibraryBouteille\obj\Debug\net8.0\ref\ClassLibraryBouteille.dll

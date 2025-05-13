@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cabiehler\\OneDrive - CENTRE DE READAPTATION\\Documents\\ExoPOOBouteille\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C52CF92B-2A2B-4F31-B2F9-BD8A320135D2}|ClassLibraryBouteille\\ClassLibraryBouteille.csproj|c:\\users\\cabiehler\\onedrive - centre de readaptation\\documents\\exopoobouteille\\classlibrarybouteille\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C52CF92B-2A2B-4F31-B2F9-BD8A320135D2}|ClassLibraryBouteille\\ClassLibraryBouteille.csproj|solutionrelative:classlibrarybouteille\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1785BCE-346A-4CD1-BDFF-6A32BED04E00}|POOBouteille\\POOBouteille.csproj|c:\\users\\cabiehler\\onedrive - centre de readaptation\\documents\\exopoobouteille\\poobouteille\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1785BCE-346A-4CD1-BDFF-6A32BED04E00}|POOBouteille\\POOBouteille.csproj|solutionrelative:poobouteille\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\cabiehler\\OneDrive - CENTRE DE READAPTATION\\Documents\\ExoPOOBouteille\\ClassLibraryBouteille\\Class1.cs",
+              "RelativeDocumentMoniker": "ClassLibraryBouteille\\Class1.cs",
+              "ToolTip": "C:\\Users\\cabiehler\\OneDrive - CENTRE DE READAPTATION\\Documents\\ExoPOOBouteille\\ClassLibraryBouteille\\Class1.cs",
+              "RelativeToolTip": "ClassLibraryBouteille\\Class1.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAvwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T07:56:36.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cabiehler\\OneDrive - CENTRE DE READAPTATION\\Documents\\ExoPOOBouteille\\POOBouteille\\Program.cs",
+              "RelativeDocumentMoniker": "POOBouteille\\Program.cs",
+              "ToolTip": "C:\\Users\\cabiehler\\OneDrive - CENTRE DE READAPTATION\\Documents\\ExoPOOBouteille\\POOBouteille\\Program.cs",
+              "RelativeToolTip": "POOBouteille\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T07:45:04.989Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
