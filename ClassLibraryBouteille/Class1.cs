@@ -8,6 +8,8 @@ namespace ClassLibraryBouteille
         private decimal contenuEnLitre;
         private decimal contenanceEnLitre;
 
+        
+
         public Bouteille(bool _estOuvert, decimal contenuEnLitre, decimal contenanceEnLitre)
         {
 
@@ -20,6 +22,8 @@ namespace ClassLibraryBouteille
             this.contenuEnLitre = contenuEnLitre;
             this.contenanceEnLitre = contenanceEnLitre;   
         }
+
+        public bool EstOuvert { get => estOuvert; /*set => estOuvert = value;*/ }
 
         public decimal GetContenuEnLitre()
         {
@@ -36,23 +40,14 @@ namespace ClassLibraryBouteille
             return $"La bouteile est {this.estOuvert} et elle contient {this.contenanceEnLitre} Litre(s)";
         }
 
-        public bool GetEstOuvert()
+        public decimal GetContenanceEnMLitre()
         {
-            if (this.estOuvert == true)
-            {
-                return true;
-            }
-            else
-            {
-                return false;
-            }
+            decimal resultat = contenuEnLitre * 1000;
+
+            return resultat;
         }
 
-        public bool Remplir()
-        {
-
-        }
-
+        
 
 
     }
