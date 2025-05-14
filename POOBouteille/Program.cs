@@ -6,9 +6,13 @@ namespace POOBouteille
     {
         static void Main(string[] args)
         {
-            Bouteille b1 = new Bouteille(false, 1 , 1);
-            Console.WriteLine(b1.ToString());
-            Console.WriteLine(b1.GetEstOuvert());
+            Bouteille b1 = new Bouteille(false, 1, 1);
+            Console.WriteLine("Methode contenu en litre : " + b1.EstOuvert);
+            Console.WriteLine("Methode contenu en litre : " + b1.GetContenuEnLitre());
+            Console.WriteLine("Methode contenance en litre : " + b1.GetContenanceEnLitre());
+            Console.WriteLine("Methode contenu en ML : " + b1.GetContenanceEnMLitre());
+            Console.WriteLine("Methode ToString : " + b1.ToString());
+
         }
     }
 }

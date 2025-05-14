@@ -9,3 +9,4 @@ C:\Users\cabiehler\OneDrive - CENTRE DE READAPTATION\Documents\ExoPOOBouteille\C
 C:\Users\cabiehler\OneDrive - CENTRE DE READAPTATION\Documents\ExoPOOBouteille\ClassLibraryBouteille\obj\Debug\net8.0\refint\ClassLibraryBouteille.dll
 C:\Users\cabiehler\OneDrive - CENTRE DE READAPTATION\Documents\ExoPOOBouteille\ClassLibraryBouteille\obj\Debug\net8.0\ClassLibraryBouteille.pdb
 C:\Users\cabiehler\OneDrive - CENTRE DE READAPTATION\Documents\ExoPOOBouteille\ClassLibraryBouteille\obj\Debug\net8.0\ref\ClassLibraryBouteille.dll
+C:\Users\cabiehler\OneDrive - CENTRE DE READAPTATION\Documents\ExoPOOBouteille\ClassLibraryBouteille\obj\Debug\net8.0\ClassLibraryBouteille.sourcelink.json

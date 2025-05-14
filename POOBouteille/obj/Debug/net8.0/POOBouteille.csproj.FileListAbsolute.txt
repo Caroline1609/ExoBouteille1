@@ -16,3 +16,4 @@ C:\Users\cabiehler\OneDrive - CENTRE DE READAPTATION\Documents\ExoPOOBouteille\P
 C:\Users\cabiehler\OneDrive - CENTRE DE READAPTATION\Documents\ExoPOOBouteille\POOBouteille\obj\Debug\net8.0\POOBouteille.pdb
 C:\Users\cabiehler\OneDrive - CENTRE DE READAPTATION\Documents\ExoPOOBouteille\POOBouteille\obj\Debug\net8.0\POOBouteille.genruntimeconfig.cache
 C:\Users\cabiehler\OneDrive - CENTRE DE READAPTATION\Documents\ExoPOOBouteille\POOBouteille\obj\Debug\net8.0\ref\POOBouteille.dll
+C:\Users\cabiehler\OneDrive - CENTRE DE READAPTATION\Documents\ExoPOOBouteille\POOBouteille\obj\Debug\net8.0\POOBouteille.sourcelink.json
