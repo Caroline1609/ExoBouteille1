@@ -12,7 +12,7 @@ namespace ClassLibraryBouteille
         public decimal ContenuEnLitre { get => contenuEnLitre; }
         public decimal ContenanceEnLitre { get => contenanceEnLitre; }
 
-
+        //Constructeur par défaut 
         public Bouteille() : this(false, 0, 0) // utilisation de l'INTERDEPENDANCE pour éviter de faire du code redondant (on se base plutot sur le contructeur classique)
 
         {
@@ -35,16 +35,11 @@ namespace ClassLibraryBouteille
             }
 
 
-
             this.estOuvert = _estOuvert;
             this.contenuEnLitre = contenuEnLitre;
             this.contenanceEnLitre = contenanceEnLitre;
         }
-
-        //Constructeur par défaut 
-
-        
-
+                
         public bool Ouvrir()
         {
             if (estOuvert == false)
@@ -67,7 +62,6 @@ namespace ClassLibraryBouteille
             {
                 return false;
             }
-
         }
 
         public decimal GetContenuEnLitre()
