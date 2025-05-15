@@ -57,20 +57,15 @@ namespace ClassLibraryBouteille
         }
 
         public bool Fermer()
-
         {
-
             if (estOuvert == true)
             {
                 estOuvert = false;
                 return true;
             }
             else
-
             {
-
-                return false;                               // Bouteille déjà fermée
-
+                return false;
             }
 
         }

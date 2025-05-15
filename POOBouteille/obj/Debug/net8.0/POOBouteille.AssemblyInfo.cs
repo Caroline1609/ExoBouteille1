@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("POOBouteille")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c7325f9ccfa2fd7d2ec9cf49c32f195998ae7f5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+948048e086321e56431361ebd61954ca208597ae")]
 [assembly: System.Reflection.AssemblyProductAttribute("POOBouteille")]
 [assembly: System.Reflection.AssemblyTitleAttribute("POOBouteille")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
