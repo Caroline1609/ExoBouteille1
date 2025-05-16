@@ -87,15 +87,7 @@ namespace ClassLibraryBouteille
 
         public bool Remplir()
         {
-            if (estOuvert == true && contenuEnLitre < contenanceEnLitre)
-            {
-                contenuEnLitre = contenanceEnLitre;
-                return true;
-            }
-            else
-            {
-                return false;
-            }
+            return Remplir(contenanceEnLitre - contenuEnLitre);
         }
 
         public bool Remplir(decimal quantiteEnLitre)
