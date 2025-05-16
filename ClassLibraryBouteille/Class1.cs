@@ -39,7 +39,7 @@ namespace ClassLibraryBouteille
             this.contenuEnLitre = contenuEnLitre;
             this.contenanceEnLitre = contenanceEnLitre;
         }
-                
+        
         public bool Ouvrir()
         {
             if (estOuvert == false)
@@ -76,7 +76,7 @@ namespace ClassLibraryBouteille
 
         public override string ToString()
         {
-            return $"La bouteile est {(this.estOuvert ? "ouverte" : "fermée")}, et elle contient {this.contenanceEnLitre} Litre(s) et elle est remplir à {this.contenuEnLitre} litres";
+            return $"La bouteile est {(this.estOuvert ? "ouvertes" : "fermée")}. Elle a une contenance de {this.contenanceEnLitre} Litre(s) et elle est rempli de {this.contenuEnLitre} litres";
         }
 
         public decimal GetContenanceEnMLitre()
@@ -91,7 +91,6 @@ namespace ClassLibraryBouteille
             {
                 contenuEnLitre = contenanceEnLitre;
                 return true;
-
             }
             else
             {
